@@ -1,0 +1,11 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "react", "import", "jsx-a11y"
+    ],
+    "rules": {
+        "import/no-extraneous-dependencies": 0,
+        "react/jsx-filename-extension": 0,
+        "jsx-a11y/accesible-emoji": 0
+    }
+}
